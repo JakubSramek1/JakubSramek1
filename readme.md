@@ -1,6 +1,6 @@
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=JakubSramek1&show_icons=true&theme=radical"/>
-<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubSramek1&layout=compact
-"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubSramek1)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img align="left" width="auto" height="40px" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img align="left" width="auto" height="40px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -26,13 +26,13 @@
 <img align="left" width="auto" height="40px" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl"/>
 <img align="left" width="auto" height="40px" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"/>
 
-<!-- 
-<img align="left" width="auto" height="40px" src=""/>
-<img align="left" width="auto" height="40px" src=""/>
-<img align="left" width="auto" height="40px" src=""/>
-<img align="left" width="auto" height="40px" src=""/>
-<img align="left" width="auto" height="40px" src=""/>
-<img align="left" width="auto" height="40px" src=""/> -->
+
+<img align="left" width="auto" height="40px" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
+<img align="left" width="auto" height="40px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img align="left" width="auto" height="40px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img align="left" width="auto" height="40px" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+<img align="left" width="auto" height="40px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red"/>
+
 
 
 
