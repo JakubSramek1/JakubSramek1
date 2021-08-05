@@ -6,7 +6,10 @@ Jsem Kuba a pracuji pro různé firmy a startupy jako Fulll Stack Developer, Fro
 
 # Statistiky 
 
-<img  width="100%"  src="https://github-readme-stats.vercel.app/api?username=JakubSramek1&show_icons=true&theme=radical"/>
+<img  width="47%"  src="https://github-readme-stats.vercel.app/api?username=JakubSramek1&show_icons=true&theme=radical"/>
+
+<img  width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubSramek1&layout=compact"/>
+
 
 ## Technologie se kterými pracuji
 <div width="100%">
