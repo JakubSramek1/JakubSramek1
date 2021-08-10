@@ -1,7 +1,7 @@
 # Vítej na mém profilu!👋 
 
 # O Mně 👦
-Já jsem Kuba a pracuji pro různé firmy a startupy jako Fulll Stack Developer, Fronted Developer a IT Konzultant.
+Já jsem Kuba a pracuji pro různé firmy a startupy jako Fulll Stack Developer.
 
 # Technologie se kterými pracuji👷
 
