@@ -36,8 +36,8 @@ Já jsem Kuba a pracuji pro různé firmy a startupy jako Fulll Stack Developer.
 
 
 
-# Pokud vás můj profiil zaujal: 👇👇👇👇
+# Pokud tě můj profil zaujal: 👇👇👇👇
 
-### 📫 Neváhejte mi napsat na email:  sramekvm@gmail.com
+### 📫 Neváhejte mne kontaktovat na email:  sramekvm@gmail.com
 
 
