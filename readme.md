@@ -35,8 +35,8 @@ I´m 18 years old programmer.
 
 
 
-# Pokud tě můj profil zaujal: 👇👇👇👇
+# If you are interested in my profile: 👇👇👇👇
 
-### 📫 Neváhej mne kontaktovat na email:  sramekvm@gmail.com
+### 📫 Contact me by email:  sramekvm@gmail.com
 
 
