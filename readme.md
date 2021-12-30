@@ -1,9 +1,9 @@
-# Vítej na mém profilu!👋 
+# Welcome to my profile!👋 
 
-# O Mně 👦
-Já jsem Kuba a pracuji pro různé firmy a startupy jako Fulll Stack Developer.
+# About me 👦
+I´m 18 years old programmer.
 
-# Technologie se kterými pracuji👷
+# My stack 👷
 
 <div width="100%">
 <img   src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
