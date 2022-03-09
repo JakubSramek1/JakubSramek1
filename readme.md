@@ -1,7 +1,7 @@
 # Welcome to my profile!👋 
 
 # About me 👦
-I´m 18 years old programmer.
+I am Jacob and I work for various companies and startups such as Fulll Stack Developer, Fronted Developer and IT Consultant.
 
 # My stack 👷
 
